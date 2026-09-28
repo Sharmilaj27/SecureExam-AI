@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # SecureExam AI
 
 ## Overview
@@ -29,3 +30,7 @@ cd secureexam-ai
 
 
 developer by Anuvardhini T
+=======
+# SecureExam-AI
+SecureExam AI is an AI-powered online examination and proctoring platform designed to provide a secure and reliable environment for conducting remote examinations. It combines a modern React-based interface with AI and computer-vision capabilities to monitor examination environments and identify potentially suspicious activities.
+>>>>>>> eb6ec1b852bce4a06077a63528b8cc16f3d46bd0
